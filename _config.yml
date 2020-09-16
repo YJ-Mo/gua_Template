@@ -1,9 +1,9 @@
 # Site settings
 title: Mo Blog
-SEOTitle: 莫的博客 | Mo Blog
+SEOTitle: 莫の博客 | Mo Blog
 header-img: img/home-bg.jpg
 email: myj20@mails.tsinghua.edu.cn
-description: "关于一门有趣的课，又一个开始和内心挚爱的记录。"
+description: "关于一门有趣的课，又一个开始和内心滚烫挚爱着你的记录。"
 keyword: "莫亚金，生信，bioinformatics"
 url: "https://yj-mo.github.io"
 baseurl: ""
