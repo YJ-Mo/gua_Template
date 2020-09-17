@@ -12,7 +12,7 @@ tags:
   - Linux
 ---
 
-Bioinformatics_2020Fall requires for basic commmonds of R and Linux as well as set up of coding environment for the convinience of integrated software packages \(e.g. Docker & Singularity\), and this chapter summarize 
+#### Bioinformatics_2020Fall requires for basic commmonds of R and Linux as well as set up of coding environment for the convinience of integrated software packages \(e.g. Docker & Singularity\), and this chapter summarize 
 - 
 -
 -
