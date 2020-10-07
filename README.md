@@ -35,7 +35,7 @@ $ bundle exec jekyll serve  # alternatively, npm start
 
 ## 致谢
 
-1. 这个模板最初是从这里[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)fork。非常感谢作者！
+1. 这个模板最初是从这里[IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll) fork的。非常感谢作者！
 
 2. 感谢[@Huxpro](https://github.com/Huxpro)在模板之上的添加和改进，非常感谢！
 
@@ -45,7 +45,7 @@ License
 -------
 
 Apache License 2.0.
-Copyright (c) 2015-present Huxpro
+Copyright (c) 2020-present YJ-MO
 
 Mo Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
