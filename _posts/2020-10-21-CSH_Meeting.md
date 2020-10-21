@@ -109,19 +109,19 @@ Peking University
 
 Session Chair
 
-__Unravelling immune and cellular responses associated with acute COVID-19 infection, symptoms and lethality at single-cell resolution
+__Unravelling immune and cellular responses associated with acute COVID-19 infection, symptoms and lethality at single-cell resolution__
 
 Alexandra-Chloe Villani
 
 8:00 am - 8:40 am
 
-__Single-cell analysis of Asian diversity and cancer cohorts
+__Single-cell analysis of Asian diversity and cancer cohorts__
 
 Shyam Prabhakar
 
 8:40 am - 9:20 am
 
-__Immune microenvironment in microsatellite-instable colorectal cancer
+__Immune microenvironment in microsatellite-instable colorectal cancer__
 
 Woong-Yang Park
 
@@ -131,25 +131,25 @@ Break
 
 10:00 am - 10:20 am
 
-__Single-cell transcriptomic analysis defines the interplay between tumor cells, virus infection, and the microenvironment in nasopharyngeal carcinoma
+__Single-cell transcriptomic analysis defines the interplay between tumor cells, virus infection, and the microenvironment in nasopharyngeal carcinoma__
 
 Fan Bai
 
 10:20 am - 11:00 am
 
-__Abstract title not available
+__Abstract title not available__
 
 Ansuman Satpathy
 
 11:00 am - 11:40 am
 
-__Molecular architecture of lineage specification and tissue organization in early mouse embryo
+__Molecular architecture of lineage specification and tissue organization in early mouse embryo__
 
 Naihe Jing
 
 11:40 am - 12:20 pm
 
-__Building the Human Cell Regulatory Atlas from the 5’-end
+__Building the Human Cell Regulatory Atlas from the 5’-end__
 
 Jay Shin
 
@@ -157,7 +157,7 @@ Jay Shin
 
 ### Session 2 (Oct 27, 2pm-6pm)
 
-__Speakers
+__Speakers__
 
 Zemin Zhang
 
@@ -167,13 +167,13 @@ Session Chair
 
 Subsessions
 
-__Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients' B cells
+__Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients' B cells__
 
 Xiaoliang Sunney Xie
 
 2:00 pm - 3:00 pm
 
-__Mapping human tissue architecture using spatial genomics
+__Mapping human tissue architecture using spatial genomics__
 
 Omer Bayraktar
 
@@ -183,19 +183,19 @@ Break
 
 3:40 pm - 4:00 pm
 
-__Mapping early organogenesis at single cell resolution
+__Mapping early organogenesis at single cell resolution__
 
 Bertie Gottgens
 
 4:00 pm - 4:40 pm
 
-__Tracking the dynamics of transcriptomes and epigenomes in tumor cells―Response and resistance to cancer therapies
+__Tracking the dynamics of transcriptomes and epigenomes in tumor cells―Response and resistance to cancer therapies__
 
 Celine Vallot
 
 4:40 pm - 5:20 pm
 
-__Investigating influences of maternal factors on the egg epigenome with single-cell epigenomics
+__Investigating influences of maternal factors on the egg epigenome with single-cell epigenomics__
 
 Gavin Kelsey
 
@@ -203,7 +203,7 @@ Gavin Kelsey
 
 ### Session 3 (Oct 27, 8am-1pm)
 
-__Speakers
+__Speakers__
 
 Fan Bai
 
@@ -213,19 +213,19 @@ Session Chair
 
 Subsessions
 
-__Spatial transcriptomics analysis
+__Spatial transcriptomics analysis__
 
 Guo-Cheng Yuan
 
 8:00 am - 8:40 am
 
-__Spatial transcriptome profiling by MERFISH and RNA velocity in situ analysis reveals cell cycle-dependent gene expression
+__Spatial transcriptome profiling by MERFISH and RNA velocity in situ analysis reveals cell cycle-dependent gene expression__
 
 Jean Fan
 
 8:40 am - 9:20 am
 
-__Spatial genomics―In situ transcriptome profiling by RNA seqFISH+
+__Spatial genomics―In situ transcriptome profiling by RNA seqFISH+__
 
 Long Cai
 
@@ -235,25 +235,25 @@ Break
 
 10:00 am - 10:20 am
 
-__Single cell whole genome sequencing reveals low-frequency somatic copy number alterations
+__Single cell whole genome sequencing reveals low-frequency somatic copy number alterations__
 
 Yanyi Huang
 
 10:20 am - 11:00 am
 
-__Mapping mammalian cell landscapes by single cell mRNA-seq
+__Mapping mammalian cell landscapes by single cell mRNA-seq__
 
 Guoji Guo
 
 11:00 am - 11:40 am
 
-__Decoding human embryonic development by single-cell omics sequencing approach
+__Decoding human embryonic development by single-cell omics sequencing approach__
 
 Fuchou Tang
 
 11:40 am - 12:20 pm
 
-__Clonal biology
+__Clonal biology__
 
 Shalin Naik
 
@@ -261,7 +261,7 @@ Shalin Naik
 
 ### Session 4 (Oct 27, 2pm-6pm)
 
-__Speakers
+__Speakers__
 
 Yanyi Huang
 
@@ -271,13 +271,13 @@ Session Chair
 
 Subsessions
 
-__Single Cell Proteome (SCP) using Glass-Oil-Air-Droplet (GOAD) nano chip device and its application on embryo development
+__Single Cell Proteome (SCP) using Glass-Oil-Air-Droplet (GOAD) nano chip device and its application on embryo development__
 
 Catherine CL Wong
 
 2:00 pm - 2:40 pm
 
-__KEYNOTE
+__KEYNOTE__
 
 Stephen Quake
 
@@ -287,19 +287,19 @@ Break
 
 3:40 pm - 4:00 pm
 
-__Abstract title not available
+__Abstract title not available__
 
 Oliver Stegle
 
 4:00 pm - 4:40 pm
 
-__Decoding the developing human immune system
+__Decoding the developing human immune system__
 
 Muzlifah Haniffa
 
 4:40 pm - 5:20 pm
 
-__Cellular immune pathology of ulcerative colitis
+__Cellular immune pathology of ulcerative colitis__
 
 Alison Simmons
 
@@ -307,7 +307,7 @@ Alison Simmons
 
 ### Session 5 (Oct 27, 8am-11:40am)
 
-__Speakers
+__Speakers__
 
 Yanyi Huang
 
@@ -317,19 +317,19 @@ Session Chair
 
 Subsessions
 
-__Joint single-cell detection of chromatin occupancy and transcriptome enables higher-dimensional epigenomic reconstructions
+__Joint single-cell detection of chromatin occupancy and transcriptome enables higher-dimensional epigenomic reconstructions__
 
 Aibin He
 
 8:00 am - 8:40 am
 
-__Pan-cancer single cell analysis of tumor-infiltrating immune cells
+__Pan-cancer single cell analysis of tumor-infiltrating immune cells__
 
 Zemin Zhang
 
 8:40 am - 9:20 am
 
-__Spatial transcriptome and integrative computational analysis
+__Spatial transcriptome and integrative computational analysis__
 
 Guangdun Peng
 
@@ -339,19 +339,19 @@ Break
 
 9:50 am - 10:10 am
 
-__The transcriptional atlas of blood cells and beyond
+__The transcriptional atlas of blood cells and beyond__
 
 Ping Zhu
 
 10:10 am - 10:40 am
 
-__scKinetics leverages supervised methods to recover noise corrupted biological variations from single-cell data
+__scKinetics leverages supervised methods to recover noise corrupted biological variations from single-cell data__
 
 Xin Zou
 
 10:40 am - 11:10 am
 
-__Uncover the hidden complexities of biology with single cell and spatial solutions
+__Uncover the hidden complexities of biology with single cell and spatial solutions__
 
 Mike Stubbington
 
