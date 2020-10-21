@@ -201,7 +201,7 @@ Gavin Kelsey
 
 5:20 pm - 6:00 pm
 
-### Session 3 (Oct 27, 8am-1pm)
+### Session 3 (Oct 28, 8am-1pm)
 
 __Speakers__
 
@@ -259,7 +259,7 @@ Shalin Naik
 
 12:20 pm - 1:00 pm
 
-### Session 4 (Oct 27, 2pm-6pm)
+### Session 4 (Oct 28, 2pm-6pm)
 
 __Speakers__
 
@@ -305,7 +305,7 @@ Alison Simmons
 
 5:20 pm - 6:00 pm
 
-### Session 5 (Oct 27, 8am-11:40am)
+### Session 5 (Oct 29, 8am-11:40am)
 
 __Speakers__
 
