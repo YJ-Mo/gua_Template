@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Homework_2020Bioinformatics"
+subtitle: 'Alternatives'
+author: "Yajin"
+header-style: text
+mathjax: true
+tags:
+  - Homework
+---
+
+#### YajinMo_Homework_2020/12/03
+
+### Ribo-seq
+
+> 解释TE的含义，用教程中的示例文件算出TE，并画出TE的分布
+
+TE代表转录RNA的使用率，即多少比例的转录后RNA真正用于蛋白的翻译，通常用ribo-seq的RPKM除以RNA-seq的RPKM得出。
