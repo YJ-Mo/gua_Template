@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homework_2020Bioinformatics"
-subtitle: 'Alternatives'
+subtitle: 'Ribo-seq'
 author: "Yajin"
 header-style: text
 mathjax: true
