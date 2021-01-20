@@ -28,3 +28,5 @@ VCF文件全全称variant call format，每一列的含义如下
 VCF文件更关注每一个点突变的信息，GVF文件加上了突变所在基因的位置，名字，长度以及突变read等信息。
 
 > 图
+
+![Figure 1](/img/in-post/RNA_edting.JPG)
