@@ -19,4 +19,4 @@ Structure-seq利用试剂结合in vivo状态或者模拟in vivo状态的折叠RN
 
 据Choudhary et al文章中提到，structure sequencing技术中造成的碱基水平的变化进行定量化，这种定量给出的分数就称为reactivities，每一个转录本的碱基reactivities的序列就称为reactivity profile。
 
-Chothani S, Adami E, Ouyang JF, Viswanathan S, Hubner N, Cook SA, Schafer S, Rackham OJL. deltaTE: Detection of Translationally Regulated Genes by Integrative Analysis of Ribo-seq and RNA-seq Data. __Curr Protoc Mol Biol.__ 2019 Dec;129(1):e108. doi: 10.1002/cpmb.108. PMID: 31763789.
+Chothani S, Adami E, Ouyang JF, Viswanathan S, Hubner N, Cook SA, Schafer S, Rackham OJL. deltaTE: Detection of Translationally Regulated Genes by Integrative Analysis of Ribo-seq and RNA-seq Data. _Curr Protoc Mol Biol._ 2019 Dec;129(1):e108. doi: 10.1002/cpmb.108. PMID: 31763789.
