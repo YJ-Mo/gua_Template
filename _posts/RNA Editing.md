@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homework_2020Bioinformatics"
-subtitle: 'Alternatives'
+subtitle: 'RNA Editing'
 author: "Yajin"
 header-style: text
 mathjax: true
