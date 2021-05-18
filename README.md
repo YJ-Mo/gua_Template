@@ -1,6 +1,6 @@
 ### What‘s for this blog?
 
-这个blog是因为生信课作业做的，初期可能用来记笔记和交作业吧233
+This blog is for now a repo for project storage and group communication.
 
 ### Getting Started
 
